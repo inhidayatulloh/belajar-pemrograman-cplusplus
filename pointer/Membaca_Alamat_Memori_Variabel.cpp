@@ -2,7 +2,7 @@
   * Github   : github.com/inhidayatulloh
   * Dibuat   : 13/12/2019
   * File     : Membaca_Alamat_Memori_Variabel.cpp
-  * Deskripsi: Program yang menunjukkan cara mengetahui alamat memori variabel
+  * Deskripsi: Program yang menunjukkan cara mengetahui/membaca alamat memori dari variabel
   */
 #include <iostream>
 using namespace std;
