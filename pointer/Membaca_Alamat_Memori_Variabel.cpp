@@ -2,7 +2,8 @@
   * Github   : github.com/inhidayatulloh
   * Dibuat   : 13/12/2019
   * File     : Membaca_Alamat_Memori_Variabel.cpp
-  * Deskripsi: Program yang menunjukkan cara mengetahui/membaca alamat memori dari variabel
+  * Deskripsi: Program yang menunjukkan cara mengetahui/membaca alamat memori 
+  *            dari variabel bertipe data int, float, double, dan char
   */
 #include <iostream>
 using namespace std;
