@@ -74,9 +74,9 @@ int main() {
     cout << "Alamat memori pada pointerVar3: " << pointerVar3 << endl;
     cout << "Nilai dari alamat memori pada pointerVar3: " << *pointerVar3 << endl;
 
-    /* Menampilkan nilai dan alamat memori variabel var3
-     * Menampilkan alamat memori yang disimpan pada pointerVar3
-     * Menampilkan nilai dari alamat memori yang disimpan pada pointerVar3
+    /* Menampilkan nilai dan alamat memori variabel var4
+     * Menampilkan alamat memori yang disimpan pada pointerVar4
+     * Menampilkan nilai dari alamat memori yang disimpan pada pointerVar4
      */
     cout << "Nilai variabel var4: " << var4 << endl;
     cout << "Alamat memori variabel var4: " << &var4 << endl;
