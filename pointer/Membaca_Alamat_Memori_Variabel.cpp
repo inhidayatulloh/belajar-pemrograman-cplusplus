@@ -11,8 +11,8 @@ using namespace std;
 int main() {
     /// Variabel: nama lokasi untuk menyimpan data di memori
 
-    /* Deklarasi dan inisialisasi variabel var1, var2, dan var3
-     * Ketiga variabel memiliki tipe data yang berbeda
+    /* Deklarasi dan inisialisasi variabel var1, var2, var3, dan var4
+     * Keempat variabel memiliki tipe data yang berbeda
      */
     int var1 = 9;
     float var2 = 3.46;
